@@ -26,12 +26,14 @@ In Salesforce we can create, manage and customise both applications according to
 
 ## Step 5:
 After Next, define the fields for the custom app. 
-• App Label: Search Service. • App Name: Search Service.
+• App Label: Search Service.
+• App Name: Search Service.
 • Description: Search Service is one app where we manage all the business data and catalogues.
 ![image](https://github.com/user-attachments/assets/34f242dd-2a87-4a28-9b6a-1d4eddd20c40)
 
 
 ## Step 6: Choose the Image Source for the Custom App Logo.
+
 Note: Before inserting an image for the logo you need to use the following procedure to add an image to the image gallery.
 
 ## Step 7: Select Console Option
@@ -49,5 +51,5 @@ Note: Before inserting an image for the logo you need to use the following proce
 ![image](https://github.com/user-attachments/assets/127aa758-73b9-4e50-8435-7596d3aea6a8)
 
 
-RESULT:
+## RESULT:
 Thus, creating a Warehouse Application in SalesForce.com is successfully created.

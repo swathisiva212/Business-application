@@ -8,6 +8,7 @@ In Salesforce.com, we have two types of Applications they are
 
 Classic Apps and
 Lightning Apps.
+
 In Salesforce we can create, manage and customise both applications according to user requirement.
 
 ## Step 1: Log into your developer
